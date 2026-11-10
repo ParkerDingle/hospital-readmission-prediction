@@ -1,0 +1,11 @@
+# PyCharm settings
+.idea/
+
+# Python virtual environments
+.venv/
+venv/
+
+# Python and Jupyter clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
